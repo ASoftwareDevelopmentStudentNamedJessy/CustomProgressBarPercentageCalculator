@@ -1,0 +1,44 @@
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.AssemblyReference.cache
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.Properties.Resources.resources
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.GenerateResource.cache
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.CoreCompileInputs.cache
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe.config
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.OpdrachtZesDrieDrieTwee.resources
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.exe
+C:\Users\jessy\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe.config
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.OpdrachtZesDrieDrieTwee.resources
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.Properties.Resources.resources
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.exe
+C:\Users\maste\source\repos\Opdracht 6.3.3.2\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe.config
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.OpdrachtZesDrieDrieDrie.resources
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.Properties.Resources.resources
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.exe
+C:\Users\maste\source\repos\Opdracht 6.3.3.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe.config
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.exe
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\bin\Debug\Opdracht 6.3.3.2.pdb
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.AssemblyReference.cache
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.OpdrachtZesDrieDrieDrie.resources
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht_6._3._3._2.Properties.Resources.resources
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.GenerateResource.cache
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.csproj.CoreCompileInputs.cache
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.exe
+C:\Users\Jessy\Desktop\repos\Opdracht 6.6.2.3\Opdracht 6.3.3.2\obj\Debug\Opdracht 6.3.3.2.pdb
